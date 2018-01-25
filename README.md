@@ -1,5 +1,5 @@
 # hello-world
-excersize
+excersize!
 
 Hello everyone!
 
